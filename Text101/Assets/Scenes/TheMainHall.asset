@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5289e570740df64c888ee566c8e7ef0, type: 3}
+  m_Name: TheMainHall
+  m_EditorClassIdentifier: 
+  storyText: "The main hall is empty. It looks like they trust their security system
+    too much. It makes your job easy.\r\n\r\n1. Go to the 1st floor\r\n2. Go to the
+    2nd floor\r\n3. Go to the 3rd floor"
+  nextState:
+  - {fileID: 11400000, guid: 809512e6b6191094fb3b04671cd35f5d, type: 2}
+  - {fileID: 11400000, guid: fa8f091ed49bced419e226e38dd48ba7, type: 2}
+  - {fileID: 11400000, guid: d53eb62100f17224991ec3762f451f7d, type: 2}
+  nama: TheMainHall

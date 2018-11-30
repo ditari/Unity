@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5289e570740df64c888ee566c8e7ef0, type: 3}
+  m_Name: SFf
+  m_EditorClassIdentifier: 
+  storyText: "You make a phone call to Buddy. He answered immediately.\r\n\"Cut off
+    the blue one.\"\r\n\r\n1. Okay"
+  nextState:
+  - {fileID: 11400000, guid: 1d85e0eb27c8c4b47bfe930588fa2e65, type: 2}
+  nama: SFf

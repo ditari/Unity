@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5289e570740df64c888ee566c8e7ef0, type: 3}
+  m_Name: TFd
+  m_EditorClassIdentifier: 
+  storyText: "You saw a figure from the distance. What do you do?\r\n\r\n1. Run\r\n2.
+    Attack head on\r\n3. Approach cautiously "
+  nextState:
+  - {fileID: 11400000, guid: 288935e88e5d0b54095772b97f5f88e6, type: 2}
+  - {fileID: 11400000, guid: 6f81e2791f9646644ad4c1ad496183aa, type: 2}
+  - {fileID: 11400000, guid: 7e075d41eb2560d47ae205f45c17fe02, type: 2}
+  nama: TFd
